@@ -27,4 +27,12 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/nikhilkamthe07/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nikhilkamthe07/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nikhilkamthe07/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nikhilkamthe07/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
